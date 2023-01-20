@@ -15,6 +15,8 @@ describe("validations tests suites - isEmpty", () => {
         const result = isEmpty("Label");
         expect(result).toBe(false);
     });
+
+    
 });
 
 // TODO: Create tests suite for validation function
